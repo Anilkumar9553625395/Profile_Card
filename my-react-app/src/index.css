@@ -1,32 +1,25 @@
-
-.card{
- 
-  border: 1px solid rgb(97, 91, 91);
-  border-radius: 10px;
-  box-shadow: 5px 5px 5px;
-  padding: 20px;
-  margin: 10px;
-  text-align: center;
-  max-height: 400px;
-  max-width: 400px;
-  display: inline-block;
+body{
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
-img{
 
-  height: auto;
-  width: 60%;
-  border-radius: 50%;
-}
-
-.name{
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 2px;
-  color:hsl(0, 37%, 54%) ;
-}
-p{
-
-  font-family: Arial, Helvetica, sans-serif;
+.C{
+    width: 400px;
+    height: 400px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    font-size: 6rem;
 
 }
-
+h1{
+    font-size: 6rem;
+}
+.Label{
+    font-size: 2rem;
+    margin: 10px;
+}

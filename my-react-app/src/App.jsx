@@ -1,20 +1,17 @@
 import React from "react";
-import Card from "./Card";
+import Colorpicker from "./Colorpicker";
 
 function App(){
 
+
+
+return(
+    <>
+    <Colorpicker/>
+    </>
   
-    return(
-      <>
-      <Card></Card>
-      </>
-    );
-  
-
-
-
+);
+   
 
 }
-
 export default App;
-//hi
